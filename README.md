@@ -6,7 +6,6 @@ Certainly, here's an optimized README file that provides detailed information fo
 
 # Google Logo Creator using Python
 
-![Google Logo Creator](screenshot.png)
 
 ## Overview
 
